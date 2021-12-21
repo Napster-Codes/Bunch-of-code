@@ -10,7 +10,7 @@ def plot():
   
 with sns.axes_style('darkgrid'):
       
-    // Adding the subplot
+    # Adding the subplot
     plt.subplot(211)
     plot()
       
